@@ -3,7 +3,7 @@
 - 🌱 I’m constantly staying updated with industry insights and honing my skills as a data analyst
 - 📫 You can reach me via the following mediums:
 -  joyjohnson294@gmail.com
--  https://www.linkedin.com/in/joy-johnson-152763286/
+-  https://www.linkedin.com/in/joy-johnson-jj/
 
 <!---
 johyexson/johyexson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
